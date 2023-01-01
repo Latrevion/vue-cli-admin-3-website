@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_cli_admin_3"]=self["webpackChunkvue_cli_admin_3"]||[]).push([[836],{5836:function(n,e,u){u.r(e),u.d(e,{default:function(){return _}});var i=function(){var n=this,e=n._self._c;return e("div",[n._v("采购备案审核")])},a=[],l={name:"index"},t=l,c=u(1001),r=(0,c.Z)(t,i,a,!1,null,"ea82708a",null),_=r.exports}}]);
+//# sourceMappingURL=836.a31bc828.js.map
